@@ -1,4 +1,5 @@
 C-INTERNSHIP-CODETECH
+
 COMPANY: CODETECH IT SOLUTIONS
 
 NAME: MOHD SADAF
@@ -19,3 +20,6 @@ Task 1: File Handling in C This task focuses on one of the most essential concep
 1.Create a text file 2.Write data into it 3.Append more data without overwriting existing content 4.And finally, read and display the file content.
 
 In the implemented C program (task1.c), standard library functions such as fopen(), fprintf(), fgets(), and fclose() are used. These functions allow interaction with the file system directly from within a C program. This task is crucial for understanding how data persistence works and how file I/O is managed in operating systems.
+
+#OUTPUT TASK1:
+<img width="686" height="222" alt="Image" src="https://github.com/user-attachments/assets/4e7e449a-d202-4590-bc07-4c5fde0ceb8d" />
